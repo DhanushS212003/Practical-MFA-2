@@ -1,0 +1,134 @@
+body{
+	font-family: Inter;
+}
+
+.p2{
+	color: white;
+	opacity: 70%
+}
+
+header{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 30px;
+}
+
+ul{
+	margin-top: 0px;
+	display: flex;
+	flex-direction: row;
+}
+
+li{
+	padding: 15px;
+	list-style: none;
+}
+
+a{
+	font-size: 20px;
+}
+
+.content{
+	display: flex;
+	flex-direction: row;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 20px;
+}
+
+.image{
+	width: 700px;
+	height: 300px;
+}
+
+.sidebar{
+	background-color: black;
+	color: white;
+	width: 900px;
+	margin-left: 40px;
+	margin-right: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 12px;
+	height: 475px;
+}
+
+.side{
+	border-bottom: 1px solid white;
+	padding-top: 5px;
+	padding-bottom: 15px;
+	
+}
+
+.new{
+	color: orange;
+}
+
+.new1 a{
+	color: white;
+}
+new1:hover{color: orange}
+
+.left1{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.wid{
+	width: 300px;
+	font-size: 50px;
+	margin-top: 5px;
+}
+
+.dive{
+	margin-left: 80px;
+	padding-top: 10px;
+	
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{color: orange}
+
+button{
+	background-color: red;
+	color: white;
+	padding: 10px 15px;
+	border-style: none;
+}
+button:hover{background-color: black;}
+
+.down{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 10px;
+}
+
+.i1{
+	width: 100px;
+}
+
+.s1{
+	display: flex;
+	flex-direction: row;
+	
+	width: 330px;
+}
+
+.p1{
+	padding-left: 10px;
+	margin-bottom: 50px;
+}
+
+.v1{
+	color: grey;
+}
